@@ -11,4 +11,4 @@ The firmware folder contains the firmware for the mks motor. Please note this co
 6. You also need to install the USB driver for this motor and for this follow this step. {https://github.com/makerbase-mks/MKS-SERVO42A/wiki/MKS-SERVO42A--firmware-build-and-upload-tutorial}. If you are unable to install this driver do install the boards shown in below snippet.![image](https://user-images.githubusercontent.com/54842967/170435594-6cfb6b6b-4281-4514-a04a-81800d9efc33.png)
 
 **The Firmware available {https://github.com/makerbase-mks/MKS-SERVO42A} will not work in some cases. Use the latest firmware in this repo.
-Refrences: https://github.com/makerbase-mks/MKS-SERVO42A {Compare the pinouts of both the frimware and encoder setup.}
+Refrences: https://github.com/makerbase-mks/MKS-SERVO42A ,https://github.com/jcchurch13/Mechaduino-Firmware
