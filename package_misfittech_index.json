@@ -1,0 +1,57 @@
+{
+  "packages": [
+    {
+      "maintainer": "MisfitTech",
+      "help": {
+        "online": "http://MisfitTech.net"
+      },
+      "websiteURL": "http://MisfitTech.net",
+      "platforms": [
+            {
+          "category": "MisfitTech",
+          "name": "MisfitTech SAMD Boards",
+          "url": "https://github.com/Misfittech/arduino-board-index/raw/master/boards/misfittech_samd-1.0.0.tar.bz2",
+          "checksum": "SHA-256:56A29C6B51540AA032FB18977258F7CE110D30C45A22F9ACFD8F81F744EB9041",
+          "help": {
+            "online": "http://misfittech.net"
+          },
+          "version": "1.0.0",
+          "architecture": "samd",
+          "archiveFileName": "misfittech_samd-1.0.0.tar.bz2",
+          "boards": [
+            {
+              "name": "Nano Zero"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "version": "4.8.3-2014q1",
+              "name": "arm-none-eabi-gcc"
+            },
+            {
+              "packager": "arduino",
+              "version": "1.6.1-arduino",
+              "name": "bossac"
+            },
+            {
+              "packager": "arduino",
+              "version": "0.9.0-arduino",
+              "name": "openocd"
+            },
+            {
+              "packager": "arduino",
+              "version": "4.0.0-atmel",
+              "name": "CMSIS"
+            }
+          ],
+          "size": "12852574"
+        }
+      ],
+      "tools": [],
+      "email": "info@misfittech.net",
+      "name": "misfittech"
+    }
+  
+  ]
+}
