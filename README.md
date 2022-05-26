@@ -1,6 +1,8 @@
 # MKS-Servo42A-V1.1
 Working firmware for Makerbase Servo motor with the board
 The firmware folder contains the firmware for the mks motor. Please note this code is working and tested on only MKS SERVO42A V1.1.
+#########
+
 **Steps to run and upload this firmware:
 1. Download this repo
 2. Use this board URL and paste it in your arduino prefrences tab. {https://github.com/Misfittech/arduino-board-index/raw/master/package_misfittech_index.json}
